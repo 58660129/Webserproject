@@ -1,12 +1,12 @@
 {
-    "remotePath": "./",
-    "host": "host",
-    "username": "username",
-    "password": "password",
-    "port": 21,
+    "remotePath": "./export/b/y58/58660129/public_html/887373",
+    "host": "angsila.cs.buu.ac.th",
+    "username": "58660129",
+    "password": "figddw67",
+    "port": 22,
     "secure": false,
-    "protocol": "ftp",
-    "uploadOnSave": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
     "passive": false,
     "debug": false,
     "privateKeyPath": null,
@@ -17,8 +17,8 @@
         "\\.DS_Store"
     ],
     "generatedFiles": {
-        "uploadOnSave": false,
+        "uploadOnSave": true,
         "extensionsToInclude": [],
-        "path": ""
+        "path": "./export/b/y58/58660129/public_html/887373"
     }
 }
